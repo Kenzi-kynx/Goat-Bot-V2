@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "xenonzeno+4@yandex.ru",
+		"password": "zenthepogi2",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -13,7 +13,7 @@
 	"language": "en",
 	"notesLanguage": "en",
 	"nickNameBot": "Got",
-	"prefix": "?",
+	"prefix": ".",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
